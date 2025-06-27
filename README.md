@@ -3,7 +3,7 @@
 A lightweight Flask app for detecting plant diseases from leaf images. Works on Linux, Windows, and Mac.
 
 
-# [--- download the model ---](https://mega.nz/file/WQRS2RbA#XLbOvtIKM3padgqjySAh-doj8mqdPJOMT3i1LmAklZ8)  
+# [--- download the model here ---](https://mega.nz/file/WQRS2RbA#XLbOvtIKM3padgqjySAh-doj8mqdPJOMT3i1LmAklZ8)  
 
 Place the downloaded `.pt` file in the project root folder after cloning.
 
